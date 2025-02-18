@@ -4,7 +4,7 @@
 
 - [ ] Recreate Portfolio Site from Scratch
 - [ ] Redesign Portfolio Site
-- [ ] Build New Site from Redesign
+- [ ] Build New Site in Astro
 - [ ] Implement CI/CD Pipline with Github
 - [ ] Build Blog
     - [ ] Implement Auth
