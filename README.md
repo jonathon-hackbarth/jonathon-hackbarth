@@ -7,13 +7,14 @@
 - [ ] Build New Site in Astro
 - [ ] Implement CI/CD Pipline with Github
 - [ ] Build Blog
-    - [ ] Implement Auth
-    - [ ] Implement Database
-- [ ] Build Data Conversion Site
-    - [ ] Implement Ads & Monetize
+  - [ ] Implement Auth
+  - [ ] Implement Database
+- [x] Build Data Conversion Site
+  - [x] Implement Donation Button
 - [ ] Build LLM Chat Site
-    - [ ] Implement Subscription Payments (Stripe?)
-    - [ ] Implement API
+  - [ ] Implement Subscription Payments (Stripe?)
+  - [ ] Implement API
+- [ ] Update ReadMe with Donation Buttom
 
 ## Goals
 
