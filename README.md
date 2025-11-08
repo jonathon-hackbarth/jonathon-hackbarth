@@ -45,5 +45,5 @@ React, Astro, Node.js, Full-Stack Development, Single Page Applications
 ## Connect
 
 **Website:** [jonathonhackbarth.com](http://www.jonathonhackbarth.com)  
-**Email:** me@jonathonhackbarth.com  
+**Email:** <me@jonathonhackbarth.com>  
 **LinkedIn:** [linkedin.com/in/jonathon-w-hackbarth](https://www.linkedin.com/in/jonathon-w-hackbarth/)
